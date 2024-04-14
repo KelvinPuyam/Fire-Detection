@@ -12,7 +12,7 @@ This notebook contains code for training the fire detection model. Here's what i
 4. Trains the model on the dataset for 100 epochs.
 5. Saves the best model as "final_model.h5" in the project directory.
 
-## Implementation.ipynb
+## Implementation
 
 This notebook implements the trained fire detection model for inference on sample images. Here's what it does:
 
