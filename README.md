@@ -42,7 +42,7 @@ These performance metrics suggest that the model has been trained effectively an
 
 ## Project Directory Structure
 
-![Project Directory](screenshots/Project Directory.png)
+![Project Directory](https://github.com/KelvinPuyam/Fire-Detection/blob/main/screenshots/Project%20Directory.png)
 
 The screenshot above shows how the project directory should look like during implementation.
 
