@@ -1,0 +1,6 @@
+# Ignore train and test directories
+Fire-Detection/
+test/
+
+#Ignore h5 files
+*.h5
