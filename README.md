@@ -40,9 +40,19 @@ After training the model for 100 epochs, the model achieved the following perfor
 
 These performance metrics suggest that the model has been trained effectively and has the potential to generalize well to new, unseen data. Further optimization and fine-tuning could potentially improve its performance even more.
 
+## Model Output
+
+Here are the predictions made by the trained fire detection model on sample images:
+
+![Output 1](screenshots/output-1.png)
+
+![Output 2](screenshots/output-2.png)
+
+![Output 3](screenshots/output-3.png)
+
 ## Project Directory Structure
 
-![Project Directory](https://github.com/KelvinPuyam/Fire-Detection/blob/main/screenshots/Project%20Directory.png)
+![Project Directory](screenshots/project-directory.png)
 
 The screenshot above shows how the project directory should look like during implementation.
 
