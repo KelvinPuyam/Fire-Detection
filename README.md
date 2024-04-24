@@ -44,15 +44,23 @@ These performance metrics suggest that the model has been trained effectively an
 
 Here are the predictions made by the trained fire detection model on sample images:
 
-![Output 1](screenshots/output-1.png)
+<p align="center">
+  <img src="screenshots/output-1.png">
+</p>
 
-![Output 2](screenshots/output-2.png)
+<p align="center">
+  <img src="screenshots/output-2.png">
+</p>
 
-![Output 3](screenshots/output-3.png)
+<p align="center">
+  <img src="screenshots/output-3.png">
+</p>
 
 ## Project Directory Structure
 
-![Project Directory](screenshots/project-directory.png)
+<p align="center">
+  <img src="screenshots/project-directory.png">
+</p>
 
 The screenshot above shows how the project directory should look like during implementation.
 
